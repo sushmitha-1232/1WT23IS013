@@ -4,7 +4,7 @@ USN: 1WT23IS013
 Semester: 3rd sem
 Section: A
 Branch: Information Science and Engineering
-year of admission: 2024-25
+Year of Admission: 2024-25
 SSLC: Aradhana Academy
 College Name: GITW
 UG Degree: Information Science
